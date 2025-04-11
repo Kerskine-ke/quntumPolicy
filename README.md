@@ -14,6 +14,6 @@ pip install tensorflow matplotlib numpy
 python quantum_allocator_demo.py
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerskine-ke/quantum-resource-allocator/blob/main/quantum_allocator_demo.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerskine-ke/quantumPolicy/blob/main/quantum_allocator_demo.py)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kerskine-ke/quantum-resource-allocator/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kerskine-ke/quantumPolicy/HEAD)
