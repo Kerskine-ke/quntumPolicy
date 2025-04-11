@@ -12,3 +12,8 @@ This research prototype uses a neural network policy model to intelligently assi
 ```bash
 pip install tensorflow matplotlib numpy
 python quantum_allocator_demo.py
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/quantum-resource-allocator/blob/main/quantum_allocator_demo.py)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/quantum-resource-allocator/HEAD)
